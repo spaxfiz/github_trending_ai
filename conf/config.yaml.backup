@@ -4,11 +4,6 @@ github:
 deepseek:
   api_key: ""  # Deepseek API key
 
-wechat:
-  corp_id: ""  # 企业微信 corp_id
-  corp_secret: ""  # 企业微信应用的 secret
-  agent_id: ""  # 企业微信应用的 agent_id
-
 # Server酱配置
 server_chan:
   send_key: ""  # 从 https://sct.ftqq.com/ 获取的 SendKey 
